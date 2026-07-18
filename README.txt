@@ -1,0 +1,1 @@
+Upload these files to your loading screen directory and set your server to use the loading page. Edit index.html to change text.

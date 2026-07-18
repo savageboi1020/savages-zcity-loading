@@ -1,0 +1,1 @@
+const tips=['Welcome to Savages ZCity!','Join our Discord for updates.','Respect other players.','Report bugs to an admin.'];let i=0;setInterval(()=>{document.getElementById('tip').textContent=tips[i++%tips.length]},1000);
